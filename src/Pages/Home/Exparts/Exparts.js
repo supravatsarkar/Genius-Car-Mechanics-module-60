@@ -37,7 +37,7 @@ const exparts = [
 const Exparts = () => {
 
     return (
-        <div className="container">
+        <div className="container" id="exparts-sec">
             <h1 className="text-primary mt-5">Our Experts</h1>
             <div className="row">
                 {
